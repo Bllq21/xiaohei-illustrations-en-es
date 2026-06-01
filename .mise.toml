@@ -1,0 +1,5 @@
+[tools]
+node = "22"
+
+[env]
+# OPENAI_API_KEY = "sk-..."  # Uncomment and add your key, or use ChatGPT login
