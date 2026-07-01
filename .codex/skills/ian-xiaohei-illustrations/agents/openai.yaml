@@ -1,0 +1,7 @@
+interface:
+  display_name: "Xiaohei Illustrations (EN/ES)"
+  short_description: "Generate whimsical article illustrations with Xiaohei IP. Output labels in English or Spanish."
+  short_description_es: "Genera ilustraciones caprichosas con el personaje Xiaohei. Etiquetas en inglés o español."
+  default_prompt: "Use $xiaohei-illustrations to design and generate several whimsical article illustrations for this article."
+policy:
+  allow_implicit_invocation: true
