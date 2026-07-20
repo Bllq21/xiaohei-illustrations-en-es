@@ -1,0 +1,4 @@
+# Exclude config files from language detection
+.envrc linguist-vendored
+.mise.toml linguist-vendored
+.codex/** linguist-vendored
