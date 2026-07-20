@@ -145,10 +145,12 @@ This skill uses Ian's "Xiaohei Whimsical Article Illustration" style:
 
 These images are from the original Chinese version. They are style calibration samples, not composition templates.
 
-![Two Breakpoints](examples/images/01-two-breakpoints.png)
-![Sort by Purpose](examples/images/02-sort-by-purpose.png)
-![One Fish Many Uses](examples/images/03-one-fish-many-uses.png)
-![Handoff Path](examples/images/04-handoff-path.png)
+| | |
+|---|---|
+| ![Two Breakpoints](.codex/skills/ian-xiaohei-illustrations/examples/01-two-breakpoints.png) | ![Sort by Purpose](.codex/skills/ian-xiaohei-illustrations/examples/02-sort-by-purpose.png) |
+| ![One Fish Many Uses](.codex/skills/ian-xiaohei-illustrations/examples/03-one-fish-many-uses.png) | ![Handoff Path](.codex/skills/ian-xiaohei-illustrations/examples/04-handoff-path.png) |
+| ![Information Well](.codex/skills/ian-xiaohei-illustrations/examples/05-information-well.png) | ![Idea Press](.codex/skills/ian-xiaohei-illustrations/examples/06-idea-press.png) |
+| ![Content Fermentation](.codex/skills/ian-xiaohei-illustrations/examples/07-content-fermentation.png) | ![Trust Bridge](.codex/skills/ian-xiaohei-illustrations/examples/08-trust-bridge.png) |
 
 ---
 
